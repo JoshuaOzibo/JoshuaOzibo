@@ -24,13 +24,6 @@ I am a highly motivated front-end developer passionate about crafing dynamic, re
 
 ---
 
-
-### 📌 Pinned Projects
-
-> Go to your GitHub profile → Repositories → Pin 6 projects (click the 📌 icon).
-
----
-
 ### 📬 Contact & Socials
 
 <p align="center">
