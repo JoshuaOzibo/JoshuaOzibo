@@ -19,7 +19,7 @@ I am a highly motivated front-end developer passionate about crafing dynamic, re
 ### 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,github,vue,nodejs,expressjs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,github,ts,react,nextjs,tailwind,github,vue,nodejs,expressjs,mongodb" />
 </p>
 
 ---
@@ -40,15 +40,14 @@ I am a highly motivated front-end developer passionate about crafing dynamic, re
 
 ---
 
-### 📊 GitHub Stats
+## 📊 Developer Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoshuaOzibo&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JoshuaOzibo&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoshuaOzibo&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaOzibo&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaOzibo&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9"/>
 </p>
 
 ---
